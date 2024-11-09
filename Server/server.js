@@ -1,12 +1,14 @@
-import express from "express";
+import express from "express"
 
-const app = express();
-const PORT = process.env.PORT || 4000;
+const app = express()
+
 
 app.get("/", (req, res)=>{
-    res.send("First time backending");
-});
+    res.send('First time backending')
+})
 
-app.listen(PORT, ()=>{
-    console.log('The server is running on http://localhost:${PORT}/');
-});
+const port = process.env.PORT || 5173
+
+app.listen(port, ()=>{
+    console.log(port)
+})
