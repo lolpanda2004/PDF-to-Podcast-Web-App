@@ -38,3 +38,12 @@ Ensure the following are installed on your system:
    ```bash
    cd PDF-to-Podcast-Web-App
    npm install
+-- In Progress --
+
+## Demo of Gen AI Working
+
+https://github.com/user-attachments/assets/f7df8c1a-ea7c-41ec-b327-d909e5f209fc
+
+
+
+
