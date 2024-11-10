@@ -33,3 +33,8 @@ Ensure the following are installed on your system:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/lolpanda2004/PDF-to-Podcast-Web-App.git
+   
+2. **Install dependencies**:
+   ```bash
+   cd PDF-to-Podcast-Web-App
+   npm install
